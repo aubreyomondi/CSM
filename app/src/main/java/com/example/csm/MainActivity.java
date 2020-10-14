@@ -16,7 +16,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity {
-
+    // harmless comment
     private static final String TAG = MainActivity.class.getSimpleName();
     Toast toast;
     TextView textViewResult;
