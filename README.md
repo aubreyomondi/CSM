@@ -14,4 +14,10 @@ Pushed the changes to my fork on github (remote repo).
 
 Merged new branch with master branch.
 
+Pushed the changes to my fork on github (remote repo).
+
+Deleted new local branch.
+
+Deleted new remote branch.
+
 Created a pull request to the original repo (Denis' project).
